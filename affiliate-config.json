@@ -1,0 +1,7 @@
+﻿{
+  "amazon": { "enabled": true, "tag": "ofertaradar03-20" },
+  "magalu": { "enabled": true, "partnerId": "magazineoneshotlink" },
+  "shopee": { "enabled": false, "template": "" },
+  "mercadoLivre": { "enabled": false, "template": "" },
+  "kabum": { "enabled": false, "awinAdvertiserId": "17729", "awinPublisherId": "" }
+}

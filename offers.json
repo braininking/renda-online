@@ -1,47 +1,8 @@
-[
-  {
-    "title": "Headset Gamer Planar Magnético Stealth Pro X",
-    "store": "Amazon",
-    "price": 1849,
-    "oldPrice": 2099,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0EXEMPLE1",
-    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=80",
-    "description": "Headset gamer com foco em áudio imersivo e baixa latência."
-  },
-  {
-    "title": "Headset Gamer Planar Magnético Stealth Pro X",
-    "store": "Shopee",
-    "price": 1799,
-    "oldPrice": 1999,
-    "affiliateUrl": "https://shopee.com.br/product/12345/67890",
-    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=80",
-    "description": "Alternativa de preço para o mesmo produto."
-  },
-  {
-    "title": "Headset Gamer Planar Magnético Stealth Pro X",
-    "store": "Magazine Luiza",
-    "price": 1899,
-    "oldPrice": "",
-    "affiliateUrl": "https://www.magazineluiza.com.br/produto/12345",
-    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=80",
-    "description": "Oferta cadastrada para comparação entre lojas."
-  },
-  {
-    "title": "Mouse Gamer Ultraleve Phantom 4K Wireless",
-    "store": "Amazon",
-    "price": 589.9,
-    "oldPrice": 699,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0EXEMPLE2",
-    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
-    "description": "Mouse gamer sem fio ultraleve com foco em precisão."
-  },
-  {
-    "title": "Monitor Gamer QD-OLED 27 360Hz QHD",
-    "store": "Amazon",
-    "price": 5499,
-    "oldPrice": 5999,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0EXEMPLE3",
-    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
-    "description": "Monitor gamer de alto desempenho para jogos competitivos."
-  }
+﻿[
+  {"title":"Apple iPhone 16e 128GB Branco","store":"Amazon","price":4110,"oldPrice":5799,"affiliateUrl":"https://www.amazon.com.br/dp/B0DXR6MKR8?tag=ofertaradar03-20","description":"iPhone 16e de 128 GB com tela Super Retina XDR e chip A16 Bionic."},
+  {"title":"Razer Ornata V3 TKL","store":"Amazon","price":null,"oldPrice":null,"affiliateUrl":"https://www.amazon.com.br/dp/B0GTX9DC95?tag=ofertaradar03-20","description":"Teclado gamer Razer Ornata V3 TKL."},
+  {"title":"Hisense Smart TV UHD 4K Hi-QLED 75Q6QV 75\"","store":"Amazon","price":null,"oldPrice":null,"affiliateUrl":"https://www.amazon.com.br/dp/B0GVP5N2JX?tag=ofertaradar03-20","description":"Smart TV de 75 polegadas com painel QLED 4K."},
+  {"title":"Grand Theft Auto VI - PlayStation 5","store":"Amazon","price":418.40,"oldPrice":null,"affiliateUrl":"https://www.amazon.com.br/dp/B0H6KT2RWH?tag=ofertaradar03-20","description":"Grand Theft Auto VI para PlayStation 5 em pré-venda."},
+  {"title":"WAP Parafusadeira e Furadeira de Impacto WF-700FE 700W","store":"Amazon","price":null,"oldPrice":null,"affiliateUrl":"https://www.amazon.com.br/dp/B0CY5SQ1B6?tag=ofertaradar03-20","description":"Parafusadeira e furadeira de impacto WAP WF-700FE, 700W."},
+  {"title":"Kit V-FLOC + Tok Final + Intense + Pretinho Vonixx","store":"Amazon","price":79.40,"oldPrice":95.66,"affiliateUrl":"https://www.amazon.com.br/dp/B0F9Z3D8TZ?tag=ofertaradar03-20","description":"Kit de cuidados automotivos Vonixx."}
 ]
