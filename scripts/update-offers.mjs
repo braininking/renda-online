@@ -38,12 +38,12 @@ async function get(url, options = {}) {
 }
 
 function clean(value) {
-  return String(value ?? "").replace(/\\s+/g, " ").trim();
+  return String(value ?? "").replace(/\s+/g, " ").trim();
 }
 
 function hostname(url) {
   try {
-    return new URL(url).hostname.toLowerCase().replace(/^www\\./, "");
+    return new URL(url).hostname.toLowerCase().replace(/^www\./, "");
   } catch {
     return "";
   }
@@ -56,10 +56,10 @@ function isSupported(url) {
 function image600(photo) {
   const value = clean(photo);
   if (!value) return null;
-  if (/^https?:\\/\\//i.test(value)) {
-    return value.replace(/\\/180\\//i, "/600/");
+  if (/^https?:\/\//i.test(value)) {
+    return value.replace(/\/180\//i, "/600/");
   }
-  return "https://i.promobit.com.br/600/" + value.replace(/^\\/+/, "");
+  return "https://i.promobit.com.br/600/" + value.replace(/^\/+/, "");
 }
 
 async function resolveImage(photo) {
@@ -89,14 +89,14 @@ async function resolvePromobitOffer(offerId) {
     const html = await response.text();
 
     const match =
-      html.match(/\\bl\\s*=\\s*['"]([^'"]+)['"]/i) ||
-      html.match(/location\\.href\\s*=\\s*['"]([^'"]+)['"]/i);
+      html.match(/\bl\s*=\s*['"]([^'"]+)['"]/i) ||
+      html.match(/location\.href\s*=\s*['"]([^'"]+)['"]/i);
 
     if (!match?.[1]) return response.url || null;
 
     return String(match[1])
-      .replace(/\\u002f/gi, "/")
-      .replace(/\\u003a/gi, ":")
+      .replace(/\u002f/gi, "/")
+      .replace(/\u003a/gi, ":")
       .replace(/&amp;/gi, "&");
   } catch {
     return null;
@@ -136,10 +136,10 @@ function affiliateUrl(url) {
   if (host === "magazineluiza.com.br" || host === "magalu.com.br") {
     try {
       const parsed = new URL(url);
-      const match = parsed.pathname.match(/^\\/(.+?)\\/p\\/([a-z0-9]+)(\\/[^?]*)?\\/?$/i);
+      const match = parsed.pathname.match(/^\/(.+?)\/p\/([a-z0-9]+)(\/[^?]*)?\/?$/i);
       if (!match) return null;
 
-      const slug = match[1].replace(/^\\/+|\\/+$/g, "");
+      const slug = match[1].replace(/^\/+|\/+$/g, "");
       const code = match[2];
       const suffix = match[3] || "";
 
@@ -157,7 +157,7 @@ function affiliateUrl(url) {
 }
 
 function readNextData(html) {
-  const match = html.match(/<script[^>]+id=["']__NEXT_DATA__["'][^>]*>([\\s\\S]*?)<\\/script>/i);
+  const match = html.match(/<script[^>]+id=["']__NEXT_DATA__["'][^>]*>([\s\S]*?)<\/script>/i);
   if (!match?.[1]) return null;
 
   try {
@@ -182,7 +182,7 @@ function normalizeCandidate(offer) {
 
   const storeDomain = String(offer.storeDomain)
     .toLowerCase()
-    .replace(/^www\\./, "");
+    .replace(/^www\./, "");
 
   if (!STORE_DOMAINS.has(storeDomain)) return null;
 
@@ -201,6 +201,23 @@ function normalizeCandidate(offer) {
     discount: Number(offer.offerDiscontPercentage || 0),
     publishedAt: offer.offerPublished || null,
     score: offerScore(offer)
+  };
+}
+
+function buildItem(candidate, affiliate, image) {
+  return {
+    title: candidate.title,
+    store: candidate.storeName,
+    price: candidate.price,
+    oldPrice: candidate.oldPrice,
+    affiliateUrl: affiliate,
+    image,
+    description:
+      candidate.discount > 0
+        ? "Oferta encontrada automaticamente no Promobit com " + candidate.discount + "% de desconto."
+        : "Oferta encontrada automaticamente no Promobit.",
+    source: "Promobit",
+    updatedAt: new Date().toISOString()
   };
 }
 
@@ -234,27 +251,11 @@ async function main() {
     if (!affiliate) continue;
 
     const image = await resolveImage(candidate.photo);
-
-    selected.push({
-      title: candidate.title,
-      store: candidate.storeName,
-      price: candidate.price,
-      oldPrice: candidate.oldPrice,
-      affiliateUrl: affiliate,
-      image,
-      description:
-        candidate.discount > 0
-          ? "Oferta encontrada automaticamente no Promobit com " + candidate.discount + "% de desconto."
-          : "Oferta encontrada automaticamente no Promobit.",
-      source: "Promobit",
-      updatedAt: new Date().toISOString()
-    });
-
+    selected.push(buildItem(candidate, affiliate, image));
     selectedIds.add(candidate.id);
     await sleep(150);
   }
 
-  // Se houver poucas ofertas inéditas, completa com ofertas atuais para o site nunca ficar vazio.
   if (selected.length < 6) {
     for (const candidate of candidates) {
       if (selected.length >= MAX_OFFERS) break;
@@ -266,22 +267,7 @@ async function main() {
       if (!affiliate) continue;
 
       const image = await resolveImage(candidate.photo);
-
-      selected.push({
-        title: candidate.title,
-        store: candidate.storeName,
-        price: candidate.price,
-        oldPrice: candidate.oldPrice,
-        affiliateUrl: affiliate,
-        image,
-        description:
-          candidate.discount > 0
-            ? "Oferta encontrada automaticamente no Promobit com " + candidate.discount + "% de desconto."
-            : "Oferta encontrada automaticamente no Promobit.",
-        source: "Promobit",
-        updatedAt: new Date().toISOString()
-      });
-
+      selected.push(buildItem(candidate, affiliate, image));
       selectedIds.add(candidate.id);
       await sleep(150);
     }
@@ -295,16 +281,15 @@ async function main() {
     seen[id] = new Date().toISOString();
   }
 
-  // Mantém o histórico controlado para não crescer indefinidamente.
   const entries = Object.entries(seen)
     .sort((a, b) => String(b[1]).localeCompare(String(a[1])))
     .slice(0, 5000);
 
-  await writeFile("seen-offers.json", JSON.stringify(Object.fromEntries(entries), null, 2) + "\\n");
-  await writeFile("offers.json", JSON.stringify(selected, null, 2) + "\\n");
+  await writeFile("seen-offers.json", JSON.stringify(Object.fromEntries(entries), null, 2) + "\n");
+  await writeFile("offers.json", JSON.stringify(selected, null, 2) + "\n");
 
   console.log("[OfertaRadar] ofertas publicadas:", selected.length);
-  console.log(selected.map(item => "- " + item.store + ": " + item.title).join("\\n"));
+  console.log(selected.map(item => "- " + item.store + ": " + item.title).join("\n"));
 }
 
 main().catch(error => {
