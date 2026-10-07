@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/update-offers.mjs"
+      - ".github/workflows/update-offers.yml"
 
 permissions:
   contents: write
