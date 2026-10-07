@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Headset Gamer Planar Magnético Stealth Pro X",
+    "store": "Amazon",
+    "price": 1849,
+    "oldPrice": 2099,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0EXEMPLE1",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=80",
+    "description": "Headset gamer com foco em áudio imersivo e baixa latência."
+  },
+  {
+    "title": "Headset Gamer Planar Magnético Stealth Pro X",
+    "store": "Shopee",
+    "price": 1799,
+    "oldPrice": 1999,
+    "affiliateUrl": "https://shopee.com.br/product/12345/67890",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=80",
+    "description": "Alternativa de preço para o mesmo produto."
+  },
+  {
+    "title": "Headset Gamer Planar Magnético Stealth Pro X",
+    "store": "Magazine Luiza",
+    "price": 1899,
+    "oldPrice": "",
+    "affiliateUrl": "https://www.magazineluiza.com.br/produto/12345",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=80",
+    "description": "Oferta cadastrada para comparação entre lojas."
+  },
+  {
+    "title": "Mouse Gamer Ultraleve Phantom 4K Wireless",
+    "store": "Amazon",
+    "price": 589.9,
+    "oldPrice": 699,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0EXEMPLE2",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80",
+    "description": "Mouse gamer sem fio ultraleve com foco em precisão."
+  },
+  {
+    "title": "Monitor Gamer QD-OLED 27 360Hz QHD",
+    "store": "Amazon",
+    "price": 5499,
+    "oldPrice": 5999,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0EXEMPLE3",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
+    "description": "Monitor gamer de alto desempenho para jogos competitivos."
+  }
+]

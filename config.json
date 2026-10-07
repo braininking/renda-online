@@ -1,0 +1,15 @@
+{
+  "siteName": "Radar de Oportunidades",
+  "telegram": "https://t.me/radardeifertas",
+  "affiliate": {
+    "amazonTag": "ofertaradar03-20",
+    "amazonEnabled": true,
+    "shopeeEnabled": true,
+    "mercadoLivreEnabled": true,
+    "magaluEnabled": true
+  },
+  "publishing": {
+    "autoPublish": false,
+    "reason": "Ativação de contas e links deve ser autorizada pelo proprietário"
+  }
+}
