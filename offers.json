@@ -1,24 +1,46 @@
 [
   {
-    "title": "Samsung Smart TV 50\" Crystal UHD 4K U8600F 2025",
+    "title": "Apple iPhone 17 256 GB Azul-névoa",
     "store": "Amazon",
-    "price": 2127.99,
-    "oldPrice": 2599.99,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0F5X4LL89?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/201721161317920699984103526843.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit com 18.15% de desconto.",
+    "price": 5073.1,
+    "oldPrice": 7999,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GQWF5JD1?social_share=cm_sw_r_apan_dp_M1S9NWZ36E50A6SCJHD9&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/389237664917920875281796027075.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 36.58% de desconto.",
     "source": "Promobit",
-    "updatedAt": "2026-10-15T15:04:09.991Z"
+    "updatedAt": "2026-10-15T19:02:19.682Z"
   },
   {
-    "title": "Head & Shoulders Shampoo Anticaspa Limpeza Refrescante 400 ml",
+    "title": "Marvel's Wolverine - PlayStation 5",
     "store": "Amazon",
-    "price": 16.76,
-    "oldPrice": 29.91,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0D2FKC4XK?language=pt-BR&btn_type=ss&tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/702002140617920749906126965006.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit com 43.97% de desconto.",
+    "price": 259.9,
+    "oldPrice": 399.9,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GWCCBDRR?language=pt-BR&btn_type=ss&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/552609831317920884116560772653.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 35.01% de desconto.",
     "source": "Promobit",
-    "updatedAt": "2026-10-15T15:04:21.813Z"
+    "updatedAt": "2026-10-15T19:02:25.176Z"
+  },
+  {
+    "title": "Pokémon TCG: 30th Celebration - Advanced Trainer Box PT-BR",
+    "store": "Amazon",
+    "price": 399.99,
+    "oldPrice": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HC8JZC1D?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/472335835517920852979111227802.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit.",
+    "source": "Promobit",
+    "updatedAt": "2026-10-15T19:02:32.478Z"
+  },
+  {
+    "title": "Monitor Gamer BenQ 27\" 2K DCI 1080p (200Hz1ms) EW270Q",
+    "store": "Amazon",
+    "price": 2099,
+    "oldPrice": 2999,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G6JW35L3?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/925889653617920895506199433367.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 30.01% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-10-15T19:02:34.638Z"
   }
 ]
