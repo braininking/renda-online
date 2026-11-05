@@ -1,57 +1,101 @@
 [
   {
-    "title": "Cupom de R$ 500 OFF em Consoles Nintendo Switch 2",
+    "title": "Dove Condicionador Bond Intense Repair + Peptídeo 600ml Pump",
     "store": "Amazon",
-    "price": 0.01,
+    "price": 26.5,
+    "oldPrice": 62.49,
+    "affiliateUrl": "https://www.amazon.com.br/Dove-Condicionador-Intense-Repair-Pept%C3%ADdeo/dp/B0FG1TD2JS/?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/233478505317938668243751237276.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 57.59% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:44.935Z"
+  },
+  {
+    "title": "BONI NATURAL - Desodorante Spray Natural e Vegano 120ml 2 unidades",
+    "store": "Amazon",
+    "price": 28.21,
+    "oldPrice": 59.9,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GZWJVPMR?social_share=cm_sw_r_cp_ud_dp_95KFB2A0D08M4KK4SG86&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/667086805017938663918768058716.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 52.9% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:46.461Z"
+  },
+  {
+    "title": "Antisséptico Bucal Dentalclean Extreme Ice Zero Álcool 30ml",
+    "store": "Amazon",
+    "price": 10.03,
+    "oldPrice": 19.9,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B08C6BKHG3?social_share=cm_sw_r_cp_ud_dp_0HT6VY82G3Q1J5WRMCZR&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/683676322417938665174074188631.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 49.6% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:47.930Z"
+  },
+  {
+    "title": "Dove Shampoo UV Repair & Glow + Ferúlico 600ml",
+    "store": "Amazon",
+    "price": 26.5,
+    "oldPrice": 51.61,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FQQMJNYM?social_share=cm_sw_r_cp_ud_dp_AW3V634SW704CVP2X718&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/949416643517938665119356451237.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 48.65% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:49.286Z"
+  },
+  {
+    "title": "Dove Shampoo Hidratação + Hialuron-Vit 600ml Pump",
+    "store": "Amazon",
+    "price": 26.5,
+    "oldPrice": 51.52,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FG1QBCQ7?social_share=cm_sw_r_cp_ud_dp_31WAR1CMQD48KW0RWTA0&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/768299734617938666892594259670.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 48.56% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:52.351Z"
+  },
+  {
+    "title": "BONI NATURAL - Desodorante Roll-On sem Alumínio Natural Vegetal e Vegano Coco e Lavanda 55ml 2 unidades Leve Mais",
+    "store": "Amazon",
+    "price": 27.35,
+    "oldPrice": 47.9,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GZW7NZC9?social_share=cm_sw_r_cp_ud_dp_AV0WE7412A38CFJCGKBD&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/484840301917938662848782443595.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 42.9% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:53.884Z"
+  },
+  {
+    "title": "Sensodyne Escova de Dente Extra Macia Gentle para Dentes Sensíveis Suave às Gengivas 2 unidades",
+    "store": "Amazon",
+    "price": 21.4,
+    "oldPrice": 36.9,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07MYS35MC?social_share=cm_sw_r_cp_ud_dp_CGYJX9HQENFAB599PCKZ&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/908545350917938661344381733345.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 42.01% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:54.837Z"
+  },
+  {
+    "title": "Dove Condicionador UV Repair & Glow + Ferúlico 600ml",
+    "store": "Amazon",
+    "price": 26.5,
+    "oldPrice": 40.19,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FQQJLT2Y?social_share=cm_sw_r_cp_ud_dp_ZGXNKVA30TXVBZ49NYKQ&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/574649046217938665734434169618.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 34.06% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-05T08:26:56.296Z"
+  },
+  {
+    "title": "Samsung Galaxy S25 Edge 5g, 512gb, 12gb, Câmera 200mp",
+    "store": "Amazon",
+    "price": 3817.08,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HKYBZRN1?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/977779136417938416741753296808.png",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F8PP7VMS?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/700300326817938662686846912802.jpg",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-05T01:36:15.458Z"
-  },
-  {
-    "title": "Bundle Nintendo Switch 2 + EA Sports FC 27",
-    "store": "Amazon",
-    "price": 3870.07,
-    "oldPrice": 4699.9,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HKYBZRN1?m=A1ZZFT5FULY4LN&btn_type=ss&tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/851892162317938416696773678156.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit com 17.66% de desconto.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-05T01:36:17.363Z"
-  },
-  {
-    "title": "Fun Divirta-se - Barbie - Caixa Registradora Unique - A partir de 3 anos",
-    "store": "Amazon",
-    "price": 140.59,
-    "oldPrice": 249.99,
-    "affiliateUrl": "https://www.amazon.com.br/Fun-Divirta-se-F0144-2-Barbie-Registradora/dp/B0DFRQZL6S?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/767369351717938422332098691825.png",
-    "description": "Oferta encontrada automaticamente no Promobit com 43.76% de desconto.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-05T01:36:20.315Z"
-  },
-  {
-    "title": "Bettdow SmartWatch, relogio smartwatch com Ecrã tátil e Alexa, à prova d'água IP68, relogio feminino e masculino, com 100+ modo esportivo e recebi",
-    "store": "Amazon",
-    "price": 108,
-    "oldPrice": 186,
-    "affiliateUrl": "https://www.amazon.com.br/Bettdow-SmartWatch-smartwatch-recebimento-notifica%C3%A7%C3%B5es/dp/B0DNHGQHMY?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/573520944117938412526046878409.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit com 41.94% de desconto.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-05T01:36:21.792Z"
-  },
-  {
-    "title": "Bundle Nintendo Switch 2 + Nintendo Switch Sports Resort + 3 Meses de Assinatura Nintendo Switch Online",
-    "store": "Amazon",
-    "price": 3963.07,
-    "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0H4T7T268?m=A1ZZFT5FULY4LN&btn_type=ss&tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/305090464217938416689441700625.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-05T01:36:23.124Z"
+    "updatedAt": "2026-11-05T08:26:58.408Z"
   }
 ]
