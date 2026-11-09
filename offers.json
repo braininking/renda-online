@@ -1,13 +1,35 @@
 [
   {
-    "title": "Cupom Amazon 50% OFF em Primeira Compra",
+    "title": "Azzaro, The Most Wanted Intense, Perfume Masculino, Fragrância Ambarada Amadeirada Com Cardamomo E Toffee, Eau De Parfum Com Longa Fixação, Ideal P",
     "store": "Amazon",
-    "price": 0.01,
+    "price": 379.04,
+    "oldPrice": 679,
+    "affiliateUrl": "https://www.amazon.com.br/Azzaro-Most-Wanted-Parfum-Intense/dp/B08ZFKKPDS/ref=sr_1_96?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/668463425717941849922208883279.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 44.18% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-09T01:53:03.621Z"
+  },
+  {
+    "title": "Bastão Antioleosidade Sallve Com Niacinamida 15g",
+    "store": "Amazon",
+    "price": 35.91,
+    "oldPrice": 74.9,
+    "affiliateUrl": "https://www.amazon.com.br/gp/product/B0DC8S35LH/ref=ewc_pr_img_2?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/174852014817941819316679929407.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 52.06% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-09T01:53:05.175Z"
+  },
+  {
+    "title": "GTA VI",
+    "store": "Amazon",
+    "price": 3345.01,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DCW6W5BK?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/229409098817941730541646132321.png",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0H6KT2RWH?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/605292855917941787478703306680.jpg",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-08T22:32:32.610Z"
+    "updatedAt": "2026-11-09T01:53:06.766Z"
   }
 ]
