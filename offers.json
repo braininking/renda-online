@@ -1,35 +1,24 @@
 [
   {
-    "title": "Leve mais pague menos: 20% OFF na compra de 4 Livros na Amazon",
+    "title": "Só no app: 15% off em Caloi promoção! Exclusivo para membros Prime!",
     "store": "Amazon",
     "price": 0.01,
-    "oldPrice": 0.01,
-    "affiliateUrl": "https://www.amazon.com.br/promotion/psp/A29MK98EPUD5DV?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/249131776217938071156885585724.png",
+    "oldPrice": null,
+    "affiliateUrl": "https://www.amazon.com.br/promotion/psp/A250UD3EEZ2CZK?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/562262058617944231899273926858.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-12T11:44:39.253Z"
+    "updatedAt": "2026-11-12T19:08:34.435Z"
   },
   {
-    "title": "Loção Hidratante para Corpo e Rosto Cetaphil 473ml",
+    "title": "Apple iPhone 17 de 256 GB Branco",
     "store": "Amazon",
-    "price": 69,
-    "oldPrice": 109.9,
-    "affiliateUrl": "https://www.amazon.com.br/Cetaphil-040409-Lo%C3%A7%C3%A3o-Hidratante/dp/B079VPMXHF?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/976255552917944831361250407278.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit com 37.22% de desconto.",
+    "price": 5098.99,
+    "oldPrice": 7999,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/960953472417945061148017120609.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 36.25% de desconto.",
     "source": "Promobit",
-    "updatedAt": "2026-11-12T11:44:43.858Z"
-  },
-  {
-    "title": "Creme Hidratante Cetaphil 453g",
-    "store": "Amazon",
-    "price": 69.9,
-    "oldPrice": 104.9,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B079VXJK79?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/218571637417944830323299208845.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit com 33.37% de desconto.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-12T11:44:46.186Z"
+    "updatedAt": "2026-11-12T19:08:40.845Z"
   }
 ]
