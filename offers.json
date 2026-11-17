@@ -1,14 +1,25 @@
 [
   {
-    "title": "Caixa de transporte para gatos",
+    "title": "Cupom Amazon 20% OFF",
     "store": "Amazon",
-    "price": 135.2,
-    "oldPrice": 179,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GGZVWKLX?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/341078374117949039721305658000.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit com 24.47% de desconto.",
+    "price": 0.01,
+    "oldPrice": null,
+    "affiliateUrl": "https://www.amazon.com.br/s?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/249131776217938071156885585724.png",
+    "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-17T08:35:32.975Z"
+    "updatedAt": "2026-11-17T17:50:26.312Z"
+  },
+  {
+    "title": "Combo Teclado e Mouse sem fio Logitech POP Icon com Teclas e Botões Personalizáveis Cl",
+    "store": "Amazon",
+    "price": 299.9,
+    "oldPrice": 499.9,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DPXZ6H24?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/321980655017949367947309073515.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 40.01% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-17T17:50:30.460Z"
   },
   {
     "title": "Cupom Exclusivo na Amazon: R$30 de desconto em compras acima R$100 - válido para a 1ª compra no APP",
@@ -19,17 +30,6 @@
     "image": "https://i.promobit.com.br/600/215059489717943279522320287246.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-17T08:35:35.511Z"
-  },
-  {
-    "title": "PlayStation5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
-    "store": "Amazon",
-    "price": 3884,
-    "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FPGF9J2J?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/913730194317948457781346409915.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-17T08:35:38.543Z"
+    "updatedAt": "2026-11-17T17:50:33.396Z"
   }
 ]
