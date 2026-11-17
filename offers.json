@@ -1,5 +1,16 @@
 [
   {
+    "title": "Caixa de transporte para gatos",
+    "store": "Amazon",
+    "price": 135.2,
+    "oldPrice": 179,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GGZVWKLX?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/341078374117949039721305658000.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 24.47% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-17T08:35:32.975Z"
+  },
+  {
     "title": "Cupom Exclusivo na Amazon: R$30 de desconto em compras acima R$100 - válido para a 1ª compra no APP",
     "store": "Amazon",
     "price": 0.01,
@@ -8,7 +19,7 @@
     "image": "https://i.promobit.com.br/600/215059489717943279522320287246.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-17T00:54:04.110Z"
+    "updatedAt": "2026-11-17T08:35:35.511Z"
   },
   {
     "title": "PlayStation5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
@@ -19,6 +30,6 @@
     "image": "https://i.promobit.com.br/600/913730194317948457781346409915.jpg",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-17T00:54:09.525Z"
+    "updatedAt": "2026-11-17T08:35:38.543Z"
   }
 ]
