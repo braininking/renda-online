@@ -1,5 +1,16 @@
 [
   {
+    "title": "Apple iPhone Air (256 GB) - Azul Céu",
+    "store": "Amazon",
+    "price": 7199,
+    "oldPrice": 10499,
+    "affiliateUrl": "https://www.amazon.com.br/Apple-iPhone-Air-256-GB/dp/B0FQHRD3MD?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/460267075917951199295501576549.jpg",
+    "description": "Oferta encontrada automaticamente no Promobit com 31.43% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-19T20:31:04.534Z"
+  },
+  {
     "title": "Cupom Exclusivo na Amazon: R$30 de desconto em compras acima R$100 - válido para a 1ª compra no APP",
     "store": "Amazon",
     "price": 0.01,
@@ -8,6 +19,6 @@
     "image": "https://i.promobit.com.br/600/215059489717943279522320287246.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-19T12:12:56.097Z"
+    "updatedAt": "2026-11-19T20:31:07.511Z"
   }
 ]
