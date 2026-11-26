@@ -1,68 +1,35 @@
 [
   {
-    "title": "Gire a Roleta de Cupons e Ganhe Até R$100 OFF no APP Amazon",
+    "title": "Cupom Amazon R$ 75 OFF em compras acima de R$ 499",
     "store": "Amazon",
     "price": 0.01,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/ref=nav_logo?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/179585731617956286696034395459.png",
+    "affiliateUrl": "https://www.amazon.com.br/b/?ie=UTF8&node=214025934011&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/259330893117938332284659527201.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-26T05:09:10.252Z"
+    "updatedAt": "2026-11-26T15:03:49.251Z"
   },
   {
-    "title": "Ar Condicionado Split LG AI Smart Inverter Voice 9000 BTUs Frio 220V S3-Q09JA31E",
+    "title": "Ar Condicionado Split Hi Wall Inverter Samsung WindFree Ai 12000 Btuh Frio Ar12dyfaawknaz – 220 Volts",
     "store": "Amazon",
-    "price": 1666,
+    "price": 1771,
+    "oldPrice": 2209.47,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F1HLLKSL?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/194525859817956961912963287944.png",
+    "description": "Oferta encontrada automaticamente no Promobit com 19.85% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-26T15:03:53.204Z"
+  },
+  {
+    "title": "Celular Samsung Galaxy S25 5G 256GB 12GB RAM Câmera Tripla de 50+12+10 Tela Grande de 6.2\" Prata",
+    "store": "Amazon",
+    "price": 2999.2,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FY47ZRZF?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/770253998017956630605168545658.png",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DSXX6XB3?social_share=cm_sw_r_apan_dp_T74YXSSMTWHCDV4CY7ED&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/953151291317956887124489347391.jpg",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-26T05:09:13.043Z"
-  },
-  {
-    "title": "Compre uma TV e ganhe GTA VI Exclusivo para membros Prime",
-    "store": "Amazon",
-    "price": 0.01,
-    "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/b?node=224563669011&pd_rd_w=BIXQr&content-id=amzn1.sym.f3d09ed3-9984-4624-ac8c-3d673e8fa8cf&pd_rd_wg=6n71b&pd_rd_r=d0b376c7-9ef7-4f6e-af54-e9e1a8020cf2&tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/811157838317956618883769889771.png",
-    "description": "Oferta encontrada automaticamente no Promobit.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-26T05:09:15.136Z"
-  },
-  {
-    "title": "Lisa Pé Relax, Soft Hair",
-    "store": "Amazon",
-    "price": 5,
-    "oldPrice": 13.33,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B08GH69ZNG?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/247131722717956688696568791702.png",
-    "description": "Oferta encontrada automaticamente no Promobit com 62.49% de desconto.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-26T05:09:16.758Z"
-  },
-  {
-    "title": "Celular Samsung Galaxy S26 5G, 256GB, Preto",
-    "store": "Amazon",
-    "price": 3798.65,
-    "oldPrice": 7499,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQTCXL8?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/903696353817956690494292280396.png",
-    "description": "Oferta encontrada automaticamente no Promobit com 49.34% de desconto.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-26T05:09:19.846Z"
-  },
-  {
-    "title": "Sony PlayStation 5 Edição Digital 825GB 1 Controle | Branco",
-    "store": "Amazon",
-    "price": 3947,
-    "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GWNKJDCZ?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/442974813917956636524717590752.jpg",
-    "description": "Oferta encontrada automaticamente no Promobit.",
-    "source": "Promobit",
-    "updatedAt": "2026-11-26T05:09:22.587Z"
+    "updatedAt": "2026-11-26T15:03:56.054Z"
   }
 ]
