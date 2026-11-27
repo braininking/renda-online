@@ -1,24 +1,24 @@
 [
   {
-    "title": "Produtos por R$1 na Amazon",
+    "title": "Cupom Exclusivo na Amazon: R$30 de desconto em compras acima R$100 - válido para a 1ª compra no APP",
     "store": "Amazon",
     "price": 0.01,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/b?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/cupom_amazon_Amazon_2.png",
+    "affiliateUrl": "https://www.amazon.com.br/ref=nav_logo?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/386785362017948531458445378176.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-27T05:20:22.347Z"
+    "updatedAt": "2026-11-27T15:15:56.759Z"
   },
   {
-    "title": "AER by Geonav Fone de Ouvido sem fio Bluetooth AerMood, Over-Ear Dobrável, autonomia* 60 horas, Equalização via Aplicativo, função Encontrar fone",
+    "title": "Ar Condicionado Split LG AI Smart Inverter Voice 9.000 BTUh Frio 220V",
     "store": "Amazon",
-    "price": 9.4,
+    "price": 1666,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0C1XYZQT2?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/836785508617957483762967568806.png",
+    "affiliateUrl": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-S3-Q09JA31E/dp/B0FY47ZRZF?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/297932655117957816598285512652.jpg",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-27T05:20:26.403Z"
+    "updatedAt": "2026-11-27T15:15:58.612Z"
   }
 ]
