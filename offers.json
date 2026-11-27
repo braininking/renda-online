@@ -1,13 +1,24 @@
 [
   {
-    "title": "Cupom Amazon R$ 75 OFF em compras acima de R$ 499",
+    "title": "Produtos por R$1 na Amazon",
     "store": "Amazon",
     "price": 0.01,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/b/?ie=UTF8&node=214025934011&tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/259330893117938332284659527201.png",
+    "affiliateUrl": "https://www.amazon.com.br/b?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/cupom_amazon_Amazon_2.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-26T23:41:40.104Z"
+    "updatedAt": "2026-11-27T05:20:22.347Z"
+  },
+  {
+    "title": "AER by Geonav Fone de Ouvido sem fio Bluetooth AerMood, Over-Ear Dobrável, autonomia* 60 horas, Equalização via Aplicativo, função Encontrar fone",
+    "store": "Amazon",
+    "price": 9.4,
+    "oldPrice": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0C1XYZQT2?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/836785508617957483762967568806.png",
+    "description": "Oferta encontrada automaticamente no Promobit.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-27T05:20:26.403Z"
   }
 ]
