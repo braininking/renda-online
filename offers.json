@@ -1,24 +1,35 @@
 [
   {
-    "title": "Cupom Exclusivo na Amazon: R$30 de desconto em compras acima R$100 - válido para a 1ª compra no APP",
+    "title": "Cupom Amazon 25% off em Monitor Notebook Eletrônicos",
     "store": "Amazon",
     "price": 0.01,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/ref=nav_logo?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/386785362017948531458445378176.png",
+    "affiliateUrl": "https://www.amazon.com.br/promotion/psp/A23K47B5WMWZDG?pd_rd_w=HXzE5&content-id=amzn1.sym.d8a99b77-c5b8-4c80-aae0-25720cbcab74&pd_rd_wg=FFBJV&pd_rd_r=1d8b9ffb-f9c2-4c94-a3b9-a1d42f0f6a32&tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/275424756717942619744761443661.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-27T15:15:56.759Z"
+    "updatedAt": "2026-11-27T23:28:00.008Z"
   },
   {
-    "title": "Ar Condicionado Split LG AI Smart Inverter Voice 9.000 BTUh Frio 220V",
+    "title": "Cupom Amazon R$ 25 OFF acima de R$ 159",
     "store": "Amazon",
-    "price": 1666,
+    "price": 0.01,
     "oldPrice": null,
-    "affiliateUrl": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-S3-Q09JA31E/dp/B0FY47ZRZF?tag=ofertaradar03-20",
-    "image": "https://i.promobit.com.br/600/297932655117957816598285512652.jpg",
+    "affiliateUrl": "https://www.amazon.com.br/promotion/psp/A18QAKGW18BJNC?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/495718517517956451461295182877.png",
     "description": "Oferta encontrada automaticamente no Promobit.",
     "source": "Promobit",
-    "updatedAt": "2026-11-27T15:15:58.612Z"
+    "updatedAt": "2026-11-27T23:28:01.912Z"
+  },
+  {
+    "title": "Ar Condicionado Split Hi Wall Inverter Samsung Windfree Ai 12000 Btuh Frio Ar12dyfaawknaz – 220 Volts",
+    "store": "Amazon",
+    "price": 1773,
+    "oldPrice": 2209.47,
+    "affiliateUrl": "https://www.amazon.com.br/Condicionado-Inverter-Samsung-WindFree-AR12DYFAAWKNAZ/dp/B0F1HLLKSL?tag=ofertaradar03-20",
+    "image": "https://i.promobit.com.br/600/319855186417958168336899326348.png",
+    "description": "Oferta encontrada automaticamente no Promobit com 19.75% de desconto.",
+    "source": "Promobit",
+    "updatedAt": "2026-11-27T23:28:09.350Z"
   }
 ]
